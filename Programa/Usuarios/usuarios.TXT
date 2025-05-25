@@ -1,4 +1,0 @@
-admin;admin
-user;user
-admin;1234
-cesar;daw2025
