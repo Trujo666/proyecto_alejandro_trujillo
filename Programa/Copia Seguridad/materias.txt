@@ -1,0 +1,12 @@
+MAT01 | Matematicas ESO          |Matematicas
+LEN01 | Lengua Castellana ESO    |Lengua
+ING01 | Ingles ESO               |Idiomas
+HIS01 | Historia ESO             |Ciencias Sociales
+FIS01 | Fisica ESO               |Ciencias
+QUI01 | Quimica ESO              |Ciencias
+MAT12 | Matematicas BACH         |Matematicas
+LEN12 | Lengua y Literatura BACH |Lengua
+ING12 | Ingles BACH              |Idiomas
+HIS12 | Historia BACH            |Ciencias Sociales
+FIS11 | Fisica BACH              |Ciencias
+QUI11 | Quimica BACH             |Ciencias

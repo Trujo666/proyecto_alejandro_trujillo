@@ -1,0 +1,6 @@
+LOGIN:
+
+## Hay varios usuarios, se puede iniciar con usuario: admin, clave: admin
+
+La URL a Github es: 
+https://github.com/Trujo666/proyecto_alejandro_trujillo
