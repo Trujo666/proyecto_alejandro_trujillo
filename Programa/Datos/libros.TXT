@@ -1,0 +1,6 @@
+9780000000001 | Matematicas         | Vicente García | 10 | MAT01 | 111
+9780000000002 | Lengua Castellana   | María López    | 12 | LEN01 | 122
+9780000000003 | Ingles              | John Smith     | 9  | ING01 | 133
+9780000000004 | Historia            | Laura Pérez    | 6  | HIS01 | 144
+9780000000005 | Fisica              | Luis Torres    | 9  | HIS02 | 234
+9780000000006 | Quimica             | Isabel Vega    | 8  | FIS01 | 211
